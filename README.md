@@ -64,9 +64,9 @@ Contemporary art, therefore, is not simply about representation. It is about exp
 
 In this expanded field, art becomes an epistemic laboratory — a site where the boundaries between thought and form, object and event, natural and artificial are continuously renegotiated.
 
+////////////
 
-
-/////# Contemporary Art as an Epistemic Practice  
+# Contemporary Art as an Epistemic Practice  (verson Includding dance)
 
 Contemporary art can no longer be understood merely as the production of aesthetic objects. It functions as a **mode of inquiry**, a field in which knowledge is generated, tested, destabilized, and reconfigured. In this sense, contemporary art is not only representational or expressive; it is epistemic. It produces ways of knowing. If epistemology concerns itself with how we know what we know, contemporary art often stages precisely this question — not as theory alone, but as embodied, material, relational practice.
 
@@ -97,7 +97,6 @@ Crucially, postmodern dance introduced systems thinking into choreography. Rules
 
 Dance, therefore, emerged as an epistemic practice in its own right. It investigated perception, gravity, relationality, time, and embodiment. It produced knowledge through the body.
 
----
 
 ## The Digital Turn and the Expansion of the Object  
 
